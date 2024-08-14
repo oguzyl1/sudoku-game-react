@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css'; // CSS dosyasının yolu düzeltildi
+import './App.css';
 
 const GameInfo = () => {
   return (

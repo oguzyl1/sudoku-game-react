@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css'; // CSS dosyasının yolu düzeltildi
+import './App.css'; 
 import GameInfo from './GameInfo';
 import Navbar from './Navbar';
 import SudokuGrid from './SudokuGrid';

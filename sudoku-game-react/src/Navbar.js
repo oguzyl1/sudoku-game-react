@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css'; // Burada stiller ekleyebilirsiniz
+import './App.css';
 
 const Navbar = () => (
   <nav>
